@@ -24,7 +24,7 @@
 4. 安装机器人所需的依赖：
 
    ```bash
-   pip install kuriyama webhook webhook_listener
+   pip install kuriyama webhook_listener
    ```
 
 5. 参考注释修改机器人账号，`auth key`，`Mirai-api-http`运行地址。
