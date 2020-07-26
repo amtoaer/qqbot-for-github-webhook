@@ -1,7 +1,8 @@
-# qqbot-for-github-webhook
+<h1 align="center">QQ bot for github webhook</h1>
+
 ## 介绍
 
-这是一个用于接受`github webhooks`的QQ机器人。基于`Mirai`项目和`Python Mirai `SDK。
+这是一个用于接受`github webhooks`的QQ机器人，当前支持新建分支、删除分支、推送、强制推送的通知。基于`mirai`项目和`python-mirai`SDK。
 
 ## 截图
 
@@ -37,5 +38,5 @@
 
 ## 参考
 
-+ [python Mirai文档](https://mirai-py.originpages.com/)
-+ [对python Mirai的同步调用](https://github.com/NatriumLab/python-mirai/issues/87)
++ [python-mirai文档](https://mirai-py.originpages.com/)
++ [对python-mirai的同步调用](https://github.com/NatriumLab/python-mirai/issues/87)
